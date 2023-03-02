@@ -1,0 +1,1 @@
+print('Contenido de entrenamiento')
